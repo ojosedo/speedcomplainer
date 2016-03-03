@@ -1,23 +1,23 @@
 {
     "twitter": {
-        "twitterToken": "",
-        "twitterConsumerKey": "",
-        "twitterTokenSecret": "",
-        "twitterConsumerSecret": ""
+        "twitterToken": "4878774561-nv61km2xQ7otqRR289PTrDwIzk9IHxHAmH4E3y6",
+        "twitterConsumerKey": "vXTwHZaLUeMOtr7o2zUI1Nkru",
+        "twitterTokenSecret": "lADz5gElO6LcokifOQ9DxLl0LrWrvcpKjnmupSQGsfjnS",
+        "twitterConsumerSecret": "ROnW9L1DasA15MJkXSrf0aB6yyi6xMmH6khSjmUSDBee1H2bHX"
     },
-    "tweetTo": "",
-    "internetSpeed": "50",
+    "tweetTo": "@@@@@",
+    "internetSpeed": "20",
     "tweetThresholds": {
-        "5": [
-            "Hey {tweetTo} I'm paying for {internetSpeed}Mb/s but getting only {downloadResult} Mb/s?!? Shame.",
-            "Oi! {tweetTo} $100+/month for {internetSpeed}Mbit/s and I only get {downloadResult} Mbit/s? How does that seem fair?"
+        "2": [
+            "Ey {tweetTo}, estoy pagando por {internetSpeed}Mb/s, pero solo tengo {downloadResult} Mb/s?!? Verguenza.",
+            "¡Wow! {tweetTo} $200k+ mensuales por {internetSpeed}Mbit/s y solo tengo {downloadResult} Mbit/s? Cómo es eso justo?"
         ],
-        "12.5": [
-            "Uhh {tweetTo} for $100+/month I expect better than {downloadResult}Mbit/s when I'm paying for {internetSpeed}Mbit/s. Fix your network!",
-            "Hey {tweetTo} why am I only getting {downloadResult}Mb/s when I pay for {internetSpeed}Mb/s? $100+/month for this??"
+        "4": [
+            "Uhh, {tweetTo}, por $200k+ mensuales espero más que {downloadResult}Mbit/s cuando estoy pagando por {internetSpeed}Mbit/s. ¡Arreglá tu red!",
+            "Ey {tweetTo} ¿por qué solo tengo {downloadResult}Mb/s cuando pago por {internetSpeed}Mb/s $200k+ mensuales?"
         ],
-        "25": [
-            "Well {tweetTo} I guess {downloadResult}Mb/s is better than nothing, still not worth $100/mnth when I expect {internetSpeed}Mb/s"
+        "8": [
+            "Bueno {tweetTo}, supongo que {downloadResult}Mb/s es mejor que nada, No vale la pena por $200k+ mensuales cuando yo espero {internetSpeed}Mb/s"
         ]
     },
     "log": {
