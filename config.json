@@ -1,9 +1,9 @@
 {
     "twitter": {
-        "twitterToken": "4878774561-nv61km2xQ7otqRR289PTrDwIzk9IHxHAmH4E3y6",
-        "twitterConsumerKey": "vXTwHZaLUeMOtr7o2zUI1Nkru",
-        "twitterTokenSecret": "lADz5gElO6LcokifOQ9DxLl0LrWrvcpKjnmupSQGsfjnS",
-        "twitterConsumerSecret": "ROnW9L1DasA15MJkXSrf0aB6yyi6xMmH6khSjmUSDBee1H2bHX"
+        "twitterToken": "",
+        "twitterConsumerKey": "",
+        "twitterTokenSecret": "",
+        "twitterConsumerSecret": ""
     },
     "tweetTo": "@ClaroColombia",
     "internetSpeed": "20",
